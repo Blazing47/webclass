@@ -1,0 +1,77 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #c1b6b6;
+}
+
+#FORMGET{
+    text-align: center;
+    font-size: 3em;
+    text-shadow: rgb(21, 21, 20);
+}
+
+#form{
+  width: 350px;
+  height: auto;
+  margin: 50px auto 0;
+  border: 2px solid orange;
+  border-radius: 40px 0 40px 0;
+  padding: 50px;
+}
+
+input#fullname{
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    width: 310px;
+    height: 30px;
+    font-size: 14px;
+    box-shadow: 0 0 10px;
+}
+
+input#Email{
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    width: 310px;
+    height: 30px;
+    font-size: 14px;
+    box-shadow: 0 0 10px;
+}
+
+input#contactnumber{
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    width: 310px;
+    height: 30px;
+    font-size: 14px;
+    box-shadow: 0 0 10px;
+}
+
+input#address{
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    width: 310px;
+    height: 30px;
+    font-size: 14px;
+    box-shadow: 0 0 10px;
+}
+
+input#submit{
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 25px;
+    color: #fff;
+    text-shadow: 1px 1px #949494;
+    margin-left: 120px;
+}
+
+input#submit:hover{
+    background-color: #ff9980;
+}

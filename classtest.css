@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.blog2>h1{
+    word-spacing: 0.12em;
+    font-size: 1.75rem;
+    line-height: 2rem;
+}
+.avatar{
+  border-radius: 50px;
+}

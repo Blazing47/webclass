@@ -1,0 +1,31 @@
+:root{
+    --primary:orange;
+    --sec: blue;
+    --tet: black;
+}
+
+#home{
+   font-size: 3em;
+   text-align: center;
+   text-shadow: gray 5px 2px 2px;
+}
+
+body{
+    background-color: aqua;
+}
+label{
+    color: chocolate;
+}
+.nav{
+    background-color: var(--primary);
+}
+#section{
+    background-color: var(--primary);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: ;
+}
+
+input{
+    border: ;
+}

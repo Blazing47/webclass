@@ -1,0 +1,35 @@
+:root{
+    --primary: #056608;
+    --sec: black;
+    --tet: white;
+}
+
+#services{
+    text-align: center;
+    text-shadow: rgb(115, 106, 106) 2px 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
+
+#logo{
+    text-align: center;
+    border-style: solid;
+    border-color: #056608;
+    border-radius: auto;
+    border-width: 10px;
+    padding: auto;
+}
+
+#main{
+    background-color: black;
+}
+
+#button{
+    border-color: green;
+    border-width: 3px;
+}
+
+#footer{
+    text-align: center;
+    background-color: gray;
+}

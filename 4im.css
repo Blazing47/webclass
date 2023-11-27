@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    margin-left: 90%;
+    margin-bottom: auto;
+}
+.banner{
+    
+}
+
+.bg{
+    display: flex;
+}
+.bg img{
+    width: 30%;
+}
+.menu ul li{
+    list-style-type: none;
+}
+.menu ul li a{
+    color: aqua;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
